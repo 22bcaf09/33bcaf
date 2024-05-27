@@ -1,16 +1,10 @@
-#define _POSIX_C_SOURCE 200112L
-#include <sys/types.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
-#include <netinet/tcp.h>
-#include <arpa/inet.h>
-#include <unistd.h>
-#include <fcntl.h>
-#include <netdb.h>
-#include <errno.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+hi monuuuuuuu
+
+
+
+
+
+
 
 /* ======================== Low level networking stuff ==========================
  * Here you will find basic socket stuff that should be part of
